@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-In this project I used the Binwalk, a firmware reverse engineering tool, on a VM running AttifyOS, an IoT offensive security OS, to extract and explore publicly available firmware.
+In this project I used Binwalk, a firmware reverse engineering tool, on a VM running AttifyOS, an IoT offensive security OS, to extract and explore publicly available firmware. The purpose of this project is to identify and assess potential vulnerabilities in the firmware of an embedded device for eventual management and mitigation of determined risk.
 <br />
 
 
@@ -19,7 +19,8 @@ In this project I used the Binwalk, a firmware reverse engineering tool, on a VM
 
 <h2>Learning Outcomes</h2>
 
-- <b>Use of OSINT for security research</b> 
+- <b>Use of OSINT for security research</b>
+- <b>Assessment of potential vulnerabilities in embedded device</b>
 - <b>Binwalk utility syntax and features</b>
 - <b>Firmware filesystem enumeration</b>
 - <b>Exposure to AttifyOS, an open source IoT Offensive Security OS</b>
